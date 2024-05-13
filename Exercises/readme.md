@@ -7,7 +7,8 @@ To use these CSV files in exercises or projects within this repository, simply r
 
 import pandas as pd
 
- 'Load data from file1.csv
+Load data from seeds.csv
+
 df = pd.read_csv('data/seeds.csv')
 
-'Perform operations on the loaded data
+Perform operations on the loaded data
