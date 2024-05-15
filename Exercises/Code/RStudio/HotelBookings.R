@@ -1,7 +1,7 @@
  
 #load dataset
 
-hotel_bookings <- read.csv('C:/Users/Luis Villamar/Desktop/John B/R/hotel_bookings.csv')
+hotel_bookings <- read.csv('Data/hotel_bookings.csv')
 
 head(hotel_bookings)
 
